@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UpjaoDemo</string>
+    <string name="str_add">Add</string>
+    <string name="first_name">First name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="location">Location</string>
+</resources>

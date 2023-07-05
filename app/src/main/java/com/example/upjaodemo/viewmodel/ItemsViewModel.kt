@@ -1,0 +1,4 @@
+package com.example.upjaodemo.viewmodel
+
+data class ItemsViewModel(val image: Int, val text: String) {
+}
